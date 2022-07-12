@@ -1,0 +1,19 @@
+.navbar{
+    background-color:yellow;
+}
+table{
+    border: 2px solid red;
+}
+.contactus{
+    border: 2px solid black;
+    width: 250px;
+    height: 300px;
+    margin-top: 50px;
+    background-image:url(bg.jpg);
+    border-radius: 20px;
+}
+.tblcontent{
+    padding-top: 10px;
+   
+}
+
